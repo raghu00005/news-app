@@ -1,7 +1,10 @@
-#About
-This project is  News platform which is navigated using voice command 
+# About
+This project is  News platform which is navigated using voice command.
+
 The link to project hosted is https://ai-voice-news-app.herokuapp.com/
+
 To run the project localy you can first install all the modules by
+
 npm install and then npm start will run the project in development mode
 
 
