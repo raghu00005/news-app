@@ -6,6 +6,9 @@ The link to  hosted project  is https://ai-voice-news-app.herokuapp.com/
 To run the project locally you can first install all the modules by
 
 npm install and then npm start will run the project in development mode
+# picture
+![des](https://user-images.githubusercontent.com/60185196/133312915-8484e6d0-d04b-47a6-8e34-05571fe4cfb9.png)
+
 
 
 # Getting Started with Create React App
